@@ -11,7 +11,7 @@
       "bot"
     ],
     "website": "https://github.com/Akbotmakersnew",
-    "repository": "https://github.com/Akbotmakersnew/wordchainbot",
+    "repository": "https://github.com/nothing022/Game",
     "env": {
          "TOKEN": {
          "description": "A Telegram bot token from @botfather.",
