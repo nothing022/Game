@@ -1,7 +1,7 @@
 {
     "name": "wordchainbot",
     "description": "A telegram wordchain bot",
-    "stack": "heroku-22",
+    "stack": "container",
     "keywords": [
       "a",
       "telegram",
