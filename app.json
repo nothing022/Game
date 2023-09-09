@@ -61,5 +61,6 @@
     "addons": [],
     "buildpacks": [{
         "url": "heroku/python"
+        "size": "eco"
     }],
     
